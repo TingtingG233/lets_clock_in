@@ -1,0 +1,13 @@
+{
+    "addcourse":"添加课程",
+    "progress":"进度",
+    "mycourseclock":"我的课程打卡",
+    "courseinfor":"课程信息",
+    "coursename":"输入课程名称",
+    "coursecount":"选择课程数量",
+    "deletewarining":"确实要删除此课程?",
+    "ok":"确定",
+    "cancel":"取消",
+    "yes":"是",
+    "no":"否"
+}

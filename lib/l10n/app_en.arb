@@ -1,0 +1,13 @@
+{
+    "addcourse":"Add Course",
+    "progress":"Progress",
+    "mycourseclock":"My Course Clock",
+    "courseinfor":"Course Information",
+    "coursename":"Input Course Name",
+    "coursecount":"Select Course Amount",
+    "deletewarining":"Are you sure to DELETE this course?",
+    "ok":"OK",
+    "cancel":"Cancel",
+    "yes":"是",
+    "no":"否"
+}
